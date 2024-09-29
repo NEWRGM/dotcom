@@ -15,7 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "NEWRGM INDUSTRIES",
-  description: "Innovate, Create, Transform, Meet the New Regime",
+  description: "Innovate, Create, Transform, Welcome to the New Regime",
 };
 
 export default function RootLayout({
